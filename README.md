@@ -20,7 +20,7 @@
 ### 📢 Rules
 
 - 매일 3문제 이상 풀기 _주말, 공휴일 제외_
-- 돌아가면서 선정한 문제 [Issue](https://github.com/Rising-Developers/algorithm-study/issues) 로 등록
+- 24시 전까지 인증
 - 다음 날 전까지 문제별 폴더에 `이름.js` 파일 생성 및 `이슈 번호`를 포함한 `PR`
 
 ### 🌈 Convention Rule
@@ -41,5 +41,8 @@ ex) Update README.md
 
 ### Programmers - 고득점 Kit || 아무거나
 
-- 매일 다른 카테고리 문제를 선별하여 풀기
-- Day1 | [폰켓몬 #1](https://github.com/Rising-Developers/algorithm-study/issues/1), [올바른 괄호 #2](https://github.com/Rising-Developers/algorithm-study/issues/2), [같은 숫자는 싫어 #3](https://github.com/Rising-Developers/algorithm-study/issues/3)
+- 매일 다른 카테고리 문제를 선별하여 풀기 (✅ | ❌)
+  
+Day | 이지홍 | 최기환 | 김도영 
+:--: | :--: | :--: | :--: |
+Day1 | - | -- | -- |
