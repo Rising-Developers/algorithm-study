@@ -45,4 +45,4 @@ ex) Update README.md
 ### Programmers - 고득점 Kit || 아무거나
 
 - 매일 다른 카테고리 문제를 선별하여 풀기
-- Day1 | [폰켓몬 #1](https://github.com/Rising-Developers/Algorithm/issues/1), [올바른 괄호 #2](https://github.com/Rising-Developers/Algorithm/2), [같은 숫자는 싫어 #30](https://github.com/Rising-Developers/Algorithm/issues/3)
+- Day1 | [폰켓몬 #1](https://github.com/Rising-Developers/Algorithm/issues/1), [올바른 괄호 #2](https://github.com/Rising-Developers/Algorithm/2), [같은 숫자는 싫어 #3](https://github.com/Rising-Developers/Algorithm/issues/3)
