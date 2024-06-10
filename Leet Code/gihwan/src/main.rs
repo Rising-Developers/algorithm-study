@@ -1,8 +1,5 @@
-use gihwan::merge_sorted_array;
-
 fn main() {
-    let mut arr1 = vec![1, 2, 3, 0, 0, 0];
-    let mut arr2 = vec![2, 5, 6];
-
-    merge_sorted_array::solution::merge_with_merge_sort(&mut arr1, 3, &mut arr2, 3);
+    let mut arr = vec![3, 2, 2, 3];
+    let mut num = 3;
+    gihwan::remove_element::solution::remove_element(&mut arr, num);
 }
