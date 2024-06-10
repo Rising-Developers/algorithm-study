@@ -1,7 +1,7 @@
 # Algorithm-study
 
 꾸준히 공부하기 위한 Javascript 알고리즘 스터디입니다🔥  
-매일 문제를 선별해 Issue로 등록하고 PR로 참여할 수 있습니다.
+매일 문제를 선별해 Issue로 등록(선택)하고 PR로 참여할 수 있습니다.
 
 ### 😊 Collaborator
 
