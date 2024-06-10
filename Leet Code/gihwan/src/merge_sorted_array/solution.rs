@@ -19,7 +19,7 @@ pub fn merge_with_merge_sort(nums1: &mut Vec<i32>, m: i32, nums2: &mut Vec<i32>,
         if nums1_length == -1 || nums2_length == -1 {
             if nums1_length == -1 {
                 loop {
-                    if (nums2_length == -1) {
+                    if nums2_length == -1 {
                         break;
                     }
                     nums1.push(nums2_next);
@@ -28,7 +28,7 @@ pub fn merge_with_merge_sort(nums1: &mut Vec<i32>, m: i32, nums2: &mut Vec<i32>,
                 }
             } else {
                 loop {
-                    if (nums1_length == -1) {
+                    if nums1_length == -1 {
                         break;
                     }
                     nums1.push(nums1_next);
