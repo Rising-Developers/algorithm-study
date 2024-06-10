@@ -37,6 +37,10 @@ ex) Update README.md
 
 <br/>
 
+### 💡 참고하기 좋은 코테 유형별 리스트
+-  [참고1](https://apricot-tendency-f48.notion.site/51677421ce914737b04e112f19fd29c8)
+-  [바킹독](https://github.com/encrypted-def/basic-algo-lecture)
+
 ## 🗓️ 커리큘럼
 
 ### Programmers - 고득점 Kit || 아무거나
