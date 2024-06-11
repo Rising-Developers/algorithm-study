@@ -20,3 +20,5 @@ pub mod jump_game;
 pub mod jump_game2;
 
 pub mod h_index;
+
+pub mod insert_delete_get_random_o1;
