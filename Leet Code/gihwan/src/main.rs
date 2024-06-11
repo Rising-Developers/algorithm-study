@@ -1,11 +1,9 @@
 fn main() {
     println!("Hello world");
 
-    let mut nums = vec![1];
+    let num = vec![2, 2, 1, 1, 1, 2, 2];
 
-    let result =
-        gihwan::remove_duplicate_from_sorted_array_2::solution::remove_duplicates(&mut nums);
+    let result = gihwan::majority_element::solution::majority_element(num);
 
-    println!("{:?}", nums);
     println!("{}", result);
 }
