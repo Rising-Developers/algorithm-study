@@ -14,3 +14,5 @@ pub mod rotate_array;
 pub mod best_time_to_buy_and_sell_stock;
 
 pub mod best_time_to_buy_and_sell_stock_2;
+
+pub mod jump_game;
