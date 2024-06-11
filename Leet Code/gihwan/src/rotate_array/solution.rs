@@ -58,3 +58,11 @@ fn test_case_3() {
 
     assert_eq!(nums, vec![-1]);
 }
+
+pub fn leetcode_best_solution(nums: &mut Vec<i32>, k: i32) {
+    let divider = k as usize % nums.len();
+
+    nums.reverse();
+    nums[..divider].reverse();
+    nums[divider..].reverse();
+}
