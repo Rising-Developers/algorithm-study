@@ -11,9 +11,6 @@ pub fn remove_duplicates(nums: &mut Vec<i32>) -> i32 {
     while i < last {
         let mut is_swapped = false;
 
-        println!("{}", i);
-        println!("{}", last);
-
         if i >= last {
             return nums.len() as i32;
         }
