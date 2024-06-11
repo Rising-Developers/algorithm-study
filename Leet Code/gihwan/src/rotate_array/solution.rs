@@ -11,14 +11,18 @@ pub fn rotate(nums: &mut Vec<i32>, k: i32) {
 
     nums.clear();
 
-    let mut front = Vec::new();
-    front.extend_from_slice(&nums_clone[..divider]);
+    let mut front = make_new_vector_from_slice(&nums_clone[..divider]);
 
-    let mut back = Vec::new();
-    back.extend_from_slice(&nums_clone[divider..]);
+    let mut back = make_new_vector_from_slice(&nums_clone[divider..]);
 
     insert_slice(&mut back, nums);
     insert_slice(&mut front, nums);
+}
+
+fn make_new_vector_from_slice(other: &[i32]) -> Vec<i32> {
+    let mut new_vec = Vec::new();
+    new_vec.extend_from_slice(other);
+    new_vec
 }
 
 fn insert_slice(slice: &mut Vec<i32>, nums: &mut Vec<i32>) {
