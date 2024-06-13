@@ -11,6 +11,8 @@ pub mod majority_element;
 
 pub mod rotate_array;
 
+// 2024-06-12
+
 pub mod best_time_to_buy_and_sell_stock;
 
 pub mod best_time_to_buy_and_sell_stock_2;
@@ -28,6 +30,8 @@ pub mod product_of_array_except_self;
 pub mod gas_station;
 
 pub mod candy;
+
+// 2024-06-13
 
 pub mod trapping_rain_water;
 

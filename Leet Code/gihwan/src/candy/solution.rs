@@ -10,9 +10,9 @@
 
 struct Solution {}
 
-struct LeetCodeSolution {}
+struct _LeetCodeSolution {}
 
-impl LeetCodeSolution {
+impl _LeetCodeSolution {
     pub fn candy(ratings: Vec<i32>) -> i32 {
         let n = ratings.len();
         let mut candies = vec![1; n];
@@ -56,10 +56,6 @@ fn test_case_1() {
     let ratings = vec![1, 0, 2];
 
     assert_eq!(Solution::candy(ratings), 5);
-
-    let ratings = vec![1, 0, 2];
-
-    assert_eq!(LeetCodeSolution::candy(ratings), 5);
 }
 
 #[test]
