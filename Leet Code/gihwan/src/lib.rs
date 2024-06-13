@@ -30,3 +30,5 @@ pub mod gas_station;
 pub mod candy;
 
 pub mod trapping_rain_water;
+
+pub mod roman_to_integer;
