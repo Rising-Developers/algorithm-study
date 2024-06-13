@@ -56,6 +56,10 @@ fn test_case_1() {
     let ratings = vec![1, 0, 2];
 
     assert_eq!(Solution::candy(ratings), 5);
+
+    let ratings = vec![1, 0, 2];
+
+    assert_eq!(LeetCodeSolution::candy(ratings), 5);
 }
 
 #[test]

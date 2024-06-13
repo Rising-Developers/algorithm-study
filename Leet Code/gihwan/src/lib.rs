@@ -28,3 +28,5 @@ pub mod product_of_array_except_self;
 pub mod gas_station;
 
 pub mod candy;
+
+pub mod trapping_rain_water;
