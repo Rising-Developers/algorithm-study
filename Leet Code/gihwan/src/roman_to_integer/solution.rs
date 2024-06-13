@@ -9,9 +9,9 @@
 
 struct Solution {}
 
-struct LeetCodeSolution {}
+struct _LeetCodeSolution {}
 
-impl LeetCodeSolution {
+impl _LeetCodeSolution {
     /// as_bytes 사용 이유:
     ///저는 보통 LeetCode에 솔루션을 게시할 때 // 입력은 ASCII => 문자는 바이트입니다와 같은 주석을 추가합니다.
     /// 하지만 이번에는 그렇지 않으므로 시간을 내서 설명하겠습니다.
@@ -19,7 +19,7 @@ impl LeetCodeSolution {
     /// 가져올 바이트 수를 결정하고 4바이트 UTF-32 값(Rust의 문자 형식)으로 변환해야 합니다.
     /// 하지만 입력이 모두 1바이트인 ASCII 문자로만 구성되어 있다는 것을 알기 때문에 기본 바이트 배열을 직접 반복하고 구문 분석을 우회할 수 있습니다.
     /// 사소한 최적화일 수도 있지만, 이렇게 간단한데 왜 안 될까요?
-    pub fn roman_to_int(s: String) -> i32 {
+    pub fn _roman_to_int(s: String) -> i32 {
         s.as_bytes()
             .iter()
             .fold([0; 4], |[m, c, x, i], b| match *b {
