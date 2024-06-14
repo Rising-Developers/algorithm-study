@@ -13,7 +13,7 @@ struct Solution {}
 struct _LeetCodeSolution {}
 
 impl _LeetCodeSolution {
-    pub fn candy(ratings: Vec<i32>) -> i32 {
+    pub fn _candy(ratings: Vec<i32>) -> i32 {
         let n = ratings.len();
         let mut candies = vec![1; n];
 

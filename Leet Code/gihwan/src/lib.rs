@@ -37,4 +37,6 @@ pub mod roman_to_integer;
 
 pub mod length_of_last_word;
 
+pub mod longest_common_prefix;
+
 pub mod integer_to_roman;
