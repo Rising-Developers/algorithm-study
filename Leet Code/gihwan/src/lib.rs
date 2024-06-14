@@ -35,4 +35,6 @@ pub mod trapping_rain_water;
 
 pub mod roman_to_integer;
 
+pub mod length_of_last_word;
+
 pub mod integer_to_roman;
