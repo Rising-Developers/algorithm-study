@@ -43,3 +43,6 @@ pub mod longest_common_prefix;
 pub mod integer_to_roman;
 
 pub mod reverse_words_in_string;
+
+// 2024-06-16
+pub mod zigzag_conversion;
