@@ -15,6 +15,12 @@
   <a href="https://github.com/CreatorDodo">
     <img src="https://avatars.githubusercontent.com/u/112838087?v=4" width="80" style="max-width: 100%;">
   </a>
+  <a href="https://github.com/JaeHyup0504">
+    <img src="https://avatars.githubusercontent.com/u/72785296?v=4" width="80" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/yonghyun421">
+    <img src="https://avatars.githubusercontent.com/u/81367886?v=4" width="80" style="max-width: 100%;">
+  </a>
 </div>
 
 ### 📢 Rules
@@ -51,11 +57,11 @@ ex) Update README.md
 |        Day        | 이지홍 | 최기환 | 김도영 | 이재협 | 김용현 |
 | :---------------: | :----: | :----: | :----: | :----: | :----: |
 | Day1(2024-06-10)  |   ✅   |   ✅   |   ✅   |   -    |   -    |
-| Day2(2024-06-11)  |   ✅   |   ✅   |   ✅   |   ✅   |   -    |
-| Day3(2024-06-12)  |   -    |   -    |   -    |   -    |   -    |
-| Day4(2024-06-13)  |   -    |   -    |   -    |   -    |   -    |
-| Day5(2024-06-14)  |   -    |   -    |   -    |   -    |   -    |
-| Day6(2024-06-17)  |   -    |   -    |   -    |   -    |   -    |
+| Day2(2024-06-11)  |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| Day3(2024-06-12)  |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
+| Day4(2024-06-13)  |   ✅   |   ✅   |   ❌   |   ✅   |   ✅   |
+| Day5(2024-06-14)  |   ✅   |   ✅   |   ❌   |   ❌   |   ✅   |
+| Day6(2024-06-17)  |   ✅   |   ✅   |   ❌   |   ❌   |   ✅   |
 | Day7(2024-06-18)  |   -    |   -    |   -    |   -    |   -    |
 | Day8(2024-06-19)  |   -    |   -    |   -    |   -    |   -    |
 | Day9(2024-06-20)  |   -    |   -    |   -    |   -    |   -    |
