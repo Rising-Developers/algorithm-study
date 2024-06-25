@@ -46,3 +46,7 @@ pub mod reverse_words_in_string;
 
 // 2024-06-16
 pub mod zigzag_conversion;
+
+pub mod two_sum_3_data_structure_design;
+
+pub mod most_received_gift;
