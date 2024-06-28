@@ -23,8 +23,6 @@ pub mod jump_game2;
 pub mod h_index;
 
 pub mod insert_delete_get_random_o1;
-<<<<<<< HEAD
-=======
 
 pub mod product_of_array_except_self;
 
@@ -52,4 +50,3 @@ pub mod zigzag_conversion;
 pub mod two_sum_3_data_structure_design;
 
 pub mod most_received_gift;
->>>>>>> 7a7bfc6003b0bde06fb68c4d4e8666127923cc03
